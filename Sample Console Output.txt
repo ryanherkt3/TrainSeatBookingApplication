@@ -1,0 +1,169 @@
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+2
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+2
+
+Your train conductor today is Peter, from TrainWay.
+First class AISLE seat at: 2F is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+5
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+2
+
+Your train conductor today is Peter, from TrainWay.
+First class WINDOW seat at: 1G is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+4
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+3
+
+Your train conductor today is Peter, from TrainWay.
+Economy class WINDOW seat at: 9A is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+4
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+3
+
+Your train conductor today is Peter, from TrainWay.
+Sorry, but a booking couldn't be made as the train is full!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+4
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+2
+
+Your train conductor today is Peter, from TrainWay.
+Economy class AISLE seat at: 8E is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+1
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+3
+
+Your train conductor today is Peter, from TrainWay.
+First class MIDDLE seat at: 6B is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+5
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+2
+
+Your train conductor today is Steven, from TrainSmart.
+First class AISLE seat at: 1C is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+5
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+3
+
+Your train conductor today is Steven, from TrainSmart.
+Economy class WINDOW seat at: 8A is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+5
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+3
+
+Your train conductor today is Steven, from TrainSmart.
+Economy class AISLE seat at: 6F is booked. Have a nice trip!
+Would you like to book another trip? (Y/N)
+Y
+
+Welcome to the Train Seat Booking Application. Here is a list of journeys you can choose from:
+Train journey #1 from Wellington to Auckland departing at: 1100 (deluxe train)
+Train journey #2 from Nelson to Dunedin departing at: 1215 (deluxe train)
+Train journey #3 from Auckland to Hamilton departing at: 0830 (deluxe train)
+Train journey #4 from Tauranga to New Plymouth departing at: 1430 (small train)
+Train journey #5 from Christchurch to Queenstown departing at: 1730 (small train)
+
+Please enter the journey number:
+5
+Please enter the type of seat you want (1 - window, 2 - aisle, 3 - middle):
+3
+
+Your train conductor today is Steven, from TrainSmart.
+Sorry, but a booking couldn't be made as the train is full!
+Would you like to book another trip? (Y/N)
+N
